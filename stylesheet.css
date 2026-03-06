@@ -91,3 +91,11 @@
 .footer .social-icon:hover {
     color: #FFC107;
 }
+
+
+.produk-banner {
+    height: 70vh;
+    background: linear-gradient(rgba(0,0,0,0.7)), url(img/ehmm.jpg);
+    background-size: cover;
+    background-position: center;
+}
